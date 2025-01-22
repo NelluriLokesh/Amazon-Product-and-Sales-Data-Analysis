@@ -3,6 +3,16 @@
 ## Project Overview
 This project involves analyzing Amazon product and sales data to uncover trends, performance metrics, and insights that can help in optimizing business strategies. The goal is to generate actionable insights and create visualizations that simplify complex data for stakeholders.
 
+# Page 1 : 
+![image](https://github.com/user-attachments/assets/5d9c26b2-ae0b-41b4-9fad-2338df172323)
+
+# Page 2 : 
+![image](https://github.com/user-attachments/assets/aca84cf7-be6d-460b-93f5-bb71ea20a337)
+
+# Page 3 : 
+![image](https://github.com/user-attachments/assets/ae3af0af-870f-48f0-8c38-b853ce041e8b)
+
+
 ## Goals
 - **Analyze Data:** Understand sales trends, product performance, and customer behavior.
 - **Generate Insights:** Identify key performance indicators (KPIs) and trends to inform business strategies.
